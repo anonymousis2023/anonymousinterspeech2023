@@ -72,8 +72,8 @@ Transcript: Einstein's theory of relativity is e equals m c squared.
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=EdDqhn43ZYQ">Tom Hiddleston (00:34 ~ 00:41)</a></td>
 			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc">Steve Jobs (00:55 ~ 01:05)</a></td>
+			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=EdDqhn43ZYQ">Tom Hiddleston (00:34 ~ 00:41)</a></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Jobs/1_unitspeech.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
@@ -93,8 +93,8 @@ Transcript: We are taking steps to make today's commencement feel as authentic a
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=VI2B3sZ1GaY">Conan O'Brien (03:08 ~ 03:13)</a></td>
 			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=SLEvWp8JS1c">Emma Watson (03:30 ~ 03:40)</a></td>
+			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=VI2B3sZ1GaY">Conan O'Brien (03:08 ~ 03:13)</a></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Watson/1_unitspeech.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
@@ -114,8 +114,8 @@ Transcript: And always have the courage to be yourself. Most importantly, you ha
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=2mqQMA7CSLQ">Donald Trump (19:44 ~ 19:54.3)</a></td>
 			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=apo-Wkc-MRE">Marge Simpson (00:42 ~ 00:52)</a></td>
+			<td style="text-align: center"><a href="https://www.youtube.com/watch?v=2mqQMA7CSLQ">Donald Trump (19:44 ~ 19:54.3)</a></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Marge/1_unitspeech.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
