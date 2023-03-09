@@ -263,7 +263,6 @@ Transcript: She wandered in the land of clouds thro' valleys dark, listning Dolo
 			<th style="text-align: center">DiffVC</th>
 			<th style="text-align: center">BNE-PPG-VC</th>
 			<th style="text-align: center">YourTTS</th>
-			<th style="text-align: center">VQMIVC</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -274,7 +273,6 @@ Transcript: She wandered in the land of clouds thro' valleys dark, listning Dolo
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/1_unitspeech.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/1_diffvc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/1_bne-ppg-vc.wav" type="audio/wav"></audio></td>
-			<th style="text-align: center"></th>
 			<th style="text-align: center"></th>
 		</tr>
 	</tbody>
@@ -287,7 +285,6 @@ Transcript: She wandered in the land of clouds thro' valleys dark, listning Dolo
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/1_diffvc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/1_bne-ppg-vc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/1_yourtts.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/1_vqmivc.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -306,7 +303,6 @@ Transcript: Instead of shoes, the old man wore boots with turnover tops and his 
 			<th style="text-align: center">DiffVC</th>
 			<th style="text-align: center">BNE-PPG-VC</th>
 			<th style="text-align: center">YourTTS</th>
-			<th style="text-align: center">VQMIVC</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -317,7 +313,6 @@ Transcript: Instead of shoes, the old man wore boots with turnover tops and his 
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/2_unitspeech.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/2_diffvc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/2_bne-ppg-vc.wav" type="audio/wav"></audio></td>
-			<th style="text-align: center"></th>
 			<th style="text-align: center"></th>
 		</tr>
 	</tbody>
@@ -330,7 +325,6 @@ Transcript: Instead of shoes, the old man wore boots with turnover tops and his 
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/2_diffvc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/2_bne-ppg-vc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/2_yourtts.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/2_vqmivc.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -349,7 +343,6 @@ Transcript: Hans pointed with his finger at a dark mass six hundred yards away, 
 			<th style="text-align: center">DiffVC</th>
 			<th style="text-align: center">BNE-PPG-VC</th>
 			<th style="text-align: center">YourTTS</th>
-			<th style="text-align: center">VQMIVC</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -360,7 +353,6 @@ Transcript: Hans pointed with his finger at a dark mass six hundred yards away, 
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/3_unitspeech.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/3_diffvc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_22k_VC/3_bne-ppg-vc.wav" type="audio/wav"></audio></td>
-			<th style="text-align: center"></th>
 			<th style="text-align: center"></th>
 		</tr>
 	</tbody>
@@ -373,7 +365,6 @@ Transcript: Hans pointed with his finger at a dark mass six hundred yards away, 
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/3_diffvc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/3_bne-ppg-vc.wav" type="audio/wav"></audio></td>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/3_yourtts.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Libri_16k_VC/3_vqmivc.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
