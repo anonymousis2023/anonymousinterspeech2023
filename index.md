@@ -374,7 +374,7 @@ Transcript: Hans pointed with his finger at a dark mass six hundred yards away, 
 - For this experiment, we trained UnitSpeech using 1000 clustered units commonly used in speech-to-unit translation.
 - Existing speech-to-unit models use [unit-HiFi-GAN](https://huggingface.co/facebook/unit_hifigan_mhubert_vp_en_es_fr_it3_400k_layer11_km1000_lj_dur) trained on a single speaker ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) as a speech synthesis module when generating the target language's speech.
 - Replacing the unit-HiFi-GAN with UnitSpeech and combining it with a [pre-trained speech-to-unit model](https://huggingface.co/facebook/xm_transformer_s2ut_800m-es-en-st-asr-bt_h1_2022), we show the possibility of personalization of speech-to-speech translation.
-- We conducted an experiment using the CoVoST 2 dataset.
+- We conducted an experiment using the [CoVoST 2](https://github.com/facebookresearch/covost) dataset.
 - Due to imperfections in the pre-trained speech-to-unit model, UnitSpeeh may generate incorrect translation speech.
 
 <details>
